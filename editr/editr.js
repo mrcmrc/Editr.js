@@ -108,7 +108,7 @@
             },
 
             // Link to Gist proxy file
-            gistProxyURL: '/editr/libs/proxy.gist.php',
+            gistProxyURL: 'http://today-proton.codio.io:8080/github',
 
             // Default layout view
             view: 'single',
